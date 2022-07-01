@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=truong-nh-uit&no-bg=true&theme=radical&margin-w=15&margin-h=15&row=1&column=7" alt="truong-nh-uit" /></a> </p>
 
-- 🔭 I’m currently research on **Differential Equation in Deep Learning**
+- 🔭 I’m currently research on **Machine Learning + Deep Learning**
 
 - 📫 How to reach me **huynhtruong0112@gmail.com; 20522085@gm.uit.edu.vn**
 
@@ -25,6 +25,7 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
 <h3 align="left">Languages</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
